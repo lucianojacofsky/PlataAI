@@ -1,0 +1,11 @@
+{
+  "name": "Plata AI",
+  "description": "Plataforma premium de finanzas personales inspirada en Apple Wallet. Registrá gastos e ingresos conversando de forma natural en español argentino o escaneando tus tickets con OCR inteligente.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
